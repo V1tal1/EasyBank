@@ -1,0 +1,12 @@
+E:\Documents\EasyBank\EasyBank\EasyBank\obj\Debug\EasyBank.csprojResolveAssemblyReference.cache
+E:\Documents\EasyBank\EasyBank\EasyBank\obj\Debug\EasyBank.FormAdd.resources
+E:\Documents\EasyBank\EasyBank\EasyBank\obj\Debug\EasyBank.LoginForm.resources
+E:\Documents\EasyBank\EasyBank\EasyBank\obj\Debug\EasyBank.MainForm.resources
+E:\Documents\EasyBank\EasyBank\EasyBank\obj\Debug\EasyBank.csproj.GenerateResource.Cache
+E:\Documents\EasyBank\EasyBank\EasyBank\bin\Debug\EasyBank.exe.config
+E:\Documents\EasyBank\EasyBank\EasyBank\bin\Debug\EasyBank.exe
+E:\Documents\EasyBank\EasyBank\EasyBank\bin\Debug\EasyBank.pdb
+E:\Documents\EasyBank\EasyBank\EasyBank\obj\Debug\EasyBank.Properties.Resources.resources
+E:\Documents\EasyBank\EasyBank\EasyBank\obj\Debug\EasyBank.csproj.CoreCompileInputs.cache
+E:\Documents\EasyBank\EasyBank\EasyBank\obj\Debug\EasyBank.exe
+E:\Documents\EasyBank\EasyBank\EasyBank\obj\Debug\EasyBank.pdb
